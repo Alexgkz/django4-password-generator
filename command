@@ -15,4 +15,4 @@ git config --global user.name "John Doe"
 
 git status     состояние git
 git add -А     копир изменен в обл Stage
-git commit -m "our first commit"      - наш первый commit
+git commit -m "our first commit! "      - наш первый commit
